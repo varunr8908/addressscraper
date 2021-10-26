@@ -1,0 +1,6 @@
+itemadapter==0.4.0
+pandas==1.2.3
+Scrapy==2.5.1
+street_address==0.4.0
+streetaddress==0.1.0
+Twisted==21.7.0
