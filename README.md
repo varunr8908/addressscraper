@@ -1,5 +1,5 @@
-# addressscraper
-Address Scraper which generates Random Addresses for Import
+# Address Scraper
+Address Scraper which generates Random Real Addresses for Import as a CSV File
 
 <B>Clone The Repository</B>
 ```
